@@ -39,3 +39,18 @@
 ||eldorado*^
 ||casino-x*^
 ||joycasino*^
+
+! ===== Slots City Extra Block =====
+||slotscity.ua^
+||slotscity.net^
+||slotscity.org^
+||slotscity.top^
+||slotscity.online^
+||slotscity.info^
+||slotscity.win^
+||slotscity.bet^
+||slotscitypromo.*^
+||slotscity*/banner*
+||slotscity*/ads*
+||slotscity*/adv*
+||slotscity*/promo*
