@@ -1,0 +1,41 @@
+! ===== YouTube Ads =====
+||youtube.com/api/stats/ads?*
+||youtube.com/pagead/*
+||youtube.com/ptracking?*
+||youtube.com/get_midroll_*
+||youtube.com/get_video_info?*adformat*
+||youtube.com/api/stats/qoe?*adcontext
+||youtube.com/youtubei/v1/player/ad_*
+||youtube.com/youtubei/v1/log_event?*ad_*
+||googlevideo.com/videoplayback*ctier=$media,replace=ctier=A
+
+! ===== Ukrainian Ad Networks =====
+||admixer.net^
+||admixer.ua^
+||adpartner.pro^
+||mixmarket.biz^
+||mediatrade.ua^
+||bigmir.net/ad^
+||hotline.ua/banners^
+||mc.yandex.ru^$domain=ua
+||tns-ua.com^
+||ukr.net^$third-party
+||mail.ru^$domain=ua
+
+! ===== Betting & Casino =====
+||beton*^
+||favbet*^
+||parimatch*^
+||vbet*^
+||slotscity*^
+||cosmolot*^
+||pin-up*^
+||jokerwin*^
+||firstcasino*^
+||1xbet*^
+||mostbet*^
+||ggbet*^
+||slotoking*^
+||eldorado*^
+||casino-x*^
+||joycasino*^
